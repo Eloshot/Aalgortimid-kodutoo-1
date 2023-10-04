@@ -1,0 +1,6 @@
+Puud on graafi alamtüüp, mis on atsükliline. puu koosneb sõlmedest ja servadest kus iga sõlm on vanem ehk juursõlm.
+
+graafid on ülidsem mõiste ja neil võib esineda tsükleid ja neil võivad olla suunatud.
+
+sotsiaalmeedia sõprade võrgustikud on tavalised graafidena ehk inimesed on omavahel sõbrad ja nende vahel 
+on seosed ja kuna tekib tsükkel ei saa olla puu.
